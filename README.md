@@ -48,7 +48,7 @@ VITE_HUGGINGFACE_API_KEY=your_api_key
 **Note:** Never upload your API key or `.env` file to GitHub.
 
 ## Author
-Satyam Vishwakarma
+Yuvraj Singh
 
 ---
 
